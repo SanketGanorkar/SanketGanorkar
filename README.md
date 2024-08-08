@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Ganorkar</h1>
 <h3 align="center">A passionate front-end developer from India</h3>
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Frontend development**
 
