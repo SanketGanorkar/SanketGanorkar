@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sanket Ganorkar</h1>
+<h1 align="center">Hi 👋, I'm Sanket S Ganorkar</h1>
 <h3 align="center">A passionate front-end developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketganorkar" alt="sanketganorkar" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Frontend development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **sanket200503@gmail.com**
 
