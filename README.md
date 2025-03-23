@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanket S Ganorkar</h1>
-<h3 align="center">A passionate front-end developer from India</h3>
+<h3 align="center">A passionate front-end developer & aspiring devops engineer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketganorkar" alt="sanketganorkar" /></a> </p>
 
-- 🌱 I’m currently learning **Python and Angular**
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **Full Stack Development**
 
